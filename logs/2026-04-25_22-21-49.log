@@ -1,0 +1,5 @@
+[2026-04-25 22:21:50,488]  9  root - INFO - Execution has started.
+[2026-04-25 22:21:50,488]  23  root - INFO - Reading data from SQL database.
+[2026-04-25 22:21:50,533]  26  root - INFO - Connection Established: <connection object at 0x00000145D0B4D250; dsn: 'user=postgres password=xxx dbname=mlproject host=localhost port=5432', closed: 0>
+[2026-04-25 22:21:50,549]  28  root - INFO - Data read from SQL database successfully.
+[2026-04-25 22:21:50,561]  38  root - INFO - Data ingestion completed successfully.

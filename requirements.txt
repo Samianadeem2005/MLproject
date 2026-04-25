@@ -1,0 +1,6 @@
+numpy 
+pandas
+python-dotenv : To load environment variables from a .env file, which is useful for managing sensitive information like database credentials.
+mysql-connector-python : A MySQL driver that allows Python to connect to MySQL databases. It is a pure Python implementation and is compatible with Python 3.
+pymysql : Another MySQL driver for Python, which is also a pure Python implementation. It is often used as an alternative to mysql-connector-python.
+sckit-learn 
